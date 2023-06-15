@@ -9,12 +9,12 @@
 @font-face {
   font-family: helveticaregular;
   src: url(./HelveticaRegular.ttf);
-}``
+}
 * {
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
-  /* outline: 1px solid limegreen !important; */
+  outline: 1px solid limegreen !important;
 }
 html,
 body {
